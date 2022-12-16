@@ -124,7 +124,7 @@ def main():
                     with open(f"../assets/server/{ctx.guild.id}/user/{user}.json", "w+") as file:
                         json.dump(info, file, indent=2)
 
-    client.run("OTkwOTg1NDYyMzU5NDAwNDY4.GNg1Q5.ZMX8ySUH6vEJPXdVOtJdkgMHG-5c5XNI9R91-A")
+    client.run("Token")
 
 if __name__ == "__main__":
     main()
