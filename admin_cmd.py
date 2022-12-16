@@ -125,7 +125,7 @@ def main():
         else:
             await ctx.respond(embed=admin_embed())
 
-    client.run("OTkwOTg1NDYyMzU5NDAwNDY4.GNg1Q5.ZMX8ySUH6vEJPXdVOtJdkgMHG-5c5XNI9R91-A")
+    client.run("Token")
 
 if __name__ == "__main__":
     main()
